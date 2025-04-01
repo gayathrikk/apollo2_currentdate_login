@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-public class Latest_Brain {
+public class apollo2_currentdate_login {
 	
 	  public static void main(String[] args) {
 	        String url = "jdbc:mysql://apollo2.humanbrain.in:3306/HBA_V2";
